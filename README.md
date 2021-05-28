@@ -17,6 +17,8 @@ See https://database.guide/2-sample-databases-sqlite/
 
 See https://github.com/lerocha/chinook-database
 
+![Screenshot 2021-05-28 110307](https://user-images.githubusercontent.com/12828104/119959602-6da4f100-bfa4-11eb-9945-da6270e383bb.png)
+
 ### 200 - Northwind database
 
 See https://github.com/jpwhite3/northwind-SQLite3/blob/master/Northwind.Sqlite3.create.sql
